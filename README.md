@@ -19,6 +19,7 @@ Hola requires Java 8 or higher, Maven to build.
 # Run
 
 mvn clean compile package
+
 java -jar target/mdns_explorer-0.0.1-SNAPSHOT.jar 
 
 # License
